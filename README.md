@@ -70,4 +70,4 @@ Give a ⭐️ if you like this project!!
 ## Acknowledgments
 - Microverse
 - The Odin Project
-- [Readme_Devise_Gem](https://github.com/heartcombo/devise) homepage.
+- [Readme_Devise_Gem](https://github.com/heartcombo/devise) 
