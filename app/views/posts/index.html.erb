@@ -30,6 +30,3 @@
 <br>
 
 <%= link_to 'New Post', new_post_path %>
-<% if user_signed_in? %>
-  <%= link_to "Logout", destroy_user_session_path, method: :delete %>
-<% end %>
